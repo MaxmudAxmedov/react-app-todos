@@ -1,0 +1,29 @@
+.todo{
+    height: 90vh;
+    position: relative;
+}
+.input{
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 16px 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ccc;
+    outline: none;
+    border: 2.5px solid transparent;
+}
+.error{
+    border: 2.5px solid rgb(117, 37, 0);
+}
+#warning{
+    position: absolute;
+    top: 65px;
+    left: 500px;
+    color: rgb(119, 0, 0);
+}
+.list{
+    margin: 0;
+    padding: 0;
+}

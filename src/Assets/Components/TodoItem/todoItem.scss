@@ -1,0 +1,30 @@
+.item{
+    display: flex;
+    width: 600px;    
+    align-items: center;
+    margin: 12px 0;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 4px 8px rgb(55, 55, 55);
+    list-style-type: none;
+}
+.item-input{
+    margin-right: 12px;
+}
+.item-text{
+    margin: 0;
+    color: #fff;
+}
+.item-btn{
+    width: 60px;
+    border: none;
+    border-radius: 8px;
+    background-color: orangered;
+    color: #fff;
+    padding: 12px;
+    margin-left: auto;
+}
+.select{
+    text-decoration: line-through;
+}
